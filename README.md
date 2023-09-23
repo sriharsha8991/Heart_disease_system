@@ -18,8 +18,4 @@ Heart diseases are among the leading causes of death globally. Early detection a
 
 ---
 
-## Setup and Installation
 
-1. Clone the repository:
-```bash
-git clone <repository-url>
